@@ -1,6 +1,6 @@
 cask "bubble-for-messenger" do
-  version "2.2.0"
-  sha256 "66f64ad647f2b2f8744d630d53217aa4a7baa05918e7780fcf7f06e2ffa3537f"
+  version "2.3.0"
+  sha256 "11d840febec71c552a463bf1dde8367466a61eb5daa17db9ab3b5c80b8e57724"
 
   url "https://github.com/termite09/bubble-for-messenger/releases/download/v#{version}/Bubble-#{version}-arm64.dmg"
   name "Bubble for Messenger"
